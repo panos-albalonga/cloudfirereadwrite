@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CloudFireReadWrite</string>
+    <string name="title_activity_table">Table</string>
+
+    <string name="tableCode">Table Code</string>
+    <string name="btnNewTable">Create Table</string>
+    <string name="edtTableCode">a</string>
+    <string name="btnJoinTable">Join Table</string>
+
+    <string name="textemail">Email</string>
+    <string name="textpswd">Password</string>
+    <string name="btnSignIn">Sign In</string>
+    <string name="btnSignOut">Sign Out</string>
+    <string name="hintEdtEmail">E-mail</string>
+    <string name="hintEdtPswd">Password</string>
+    <string name="btnGotoAddData">Go to Add Data</string>
+    <string name="edtData">data</string>
+    <string name="btnAddToDb">Add data to DB</string>
+
+
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="edtNickName">Petros</string>
+    <string name="txvTblCode">Table Code:</string>
+</resources>
